@@ -64,6 +64,8 @@
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - WolframAlpha 之父 Stephen Wolfram 写的一篇讲 ChatGPT 原理的长文。
 - [深度学习论文精读](https://github.com/mli/paper-reading) - 李沐的深度学习论文精读资源合集。
 - [OpenAI Research index](https://openai.com/research) - 本页是 OpenAI 关于人工智能各种主题的研究论文列表。
+- [ChatGPT反思大语言模型](https://mp.weixin.qq.com/s/qqU0YliWFHC2WZd7cCdhRg) - 张俊林：由ChatGPT反思大语言模型（LLM）的技术精要。
+- [GPT-4开创的研究方向](https://mp.weixin.qq.com/s/e5oSuAVumzPXyicC1yUxcg) - 张俊林：GPT-4 模型会开创哪些新的研究方向？
 
 ### 提示词
 
