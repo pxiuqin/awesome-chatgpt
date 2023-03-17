@@ -75,6 +75,7 @@
 - [Prompt Marketplace](https://promptbase.com/) - PromptBase is a marketplace for buying and selling quality prompts.
 - [Prompt 编写模式：如何将思维框架赋予机器（中文）](https://github.com/prompt-engineering/prompt-patterns#prompt-%E7%BC%96%E5%86%99%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E8%B5%8B%E4%BA%88%E6%9C%BA%E5%99%A8) - Introduce a series of Prompt writing patterns to better apply Prompts to programming AI.
 - [ChatGPT 500 prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - 500 Prompts that are helpful for writers.
+- [PromptPerfect](https://promptperfect.jinaai.cn/#how-does-it-work) - Welcome to PromptPerfect, a cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs) and LMOps.
 
 ## OpenAI Official Rescources
 
@@ -111,6 +112,11 @@
 - [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation.
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - A universal local knowledge base solution based on vector database and GPT-3.5.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Translate EPUB eBooks using the OpenAI API.
+- [智能文案小助手](https://github.com/CatsAndMice/lanlan) - 个人助理
+- [Writely](https://github.com/anc95/writely) - A chrome extension as an alternative to Notion AI that goes beyond Notion AI.
+- [PowerGPT](https://github.com/ouromoros/PowerGPT) - Do anything in Windows PowerShell using natural language.
+- [Chaty – ChatGPT ALl In One](https://github.com/cosin2077/chaty) - One line code, satisfied all your ChatGPT imagination.
+- [Chatbox](https://github.com/Bin-Huang/chatbox) - A cross-platform desktop application for OpenAI API, also a prompt debugging and management tool.
 
 ### Chrome Extensions
 
