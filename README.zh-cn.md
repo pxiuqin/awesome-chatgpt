@@ -119,6 +119,7 @@
 - [PowerGPT](https://github.com/ouromoros/PowerGPT) - 在 Windows PowerShell 使用自然语言交互.
 - [Chaty – ChatGPT ALl In One](https://github.com/cosin2077/chaty) - Chaty – 一站式chatGPT百宝箱。
 - [Chatbox](https://github.com/Bin-Huang/chatbox) - 开源的 OpenAI API 跨平台桌面客户端，Prompt 的调试与管理工具，也可以用作 ChatGPT Plus 平替。
+- [LLaMA](https://til.simonwillison.net/llms/llama-7b-m2) - 如何在个人电脑运行 LLaMA。
 
 ### 浏览器插件
 
