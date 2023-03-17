@@ -64,6 +64,8 @@
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - A long article on the principles of ChatGPT written by Stephen Wolfram, the father of WolframAlpha.
 - [深度学习论文精读](https://github.com/mli/paper-reading) - A collection of intensive reading resources for deep learning papers by Mu Li.
 - [OpenAI Research index](https://openai.com/research) - This page is a list of OpenAI’s research papers on various topics in artificial intelligence.
+- [ChatGPT反思大语言模型](https://mp.weixin.qq.com/s/qqU0YliWFHC2WZd7cCdhRg) - 张俊林：由ChatGPT反思大语言模型（LLM）的技术精要。
+- [GPT-4开创的研究方向](https://mp.weixin.qq.com/s/e5oSuAVumzPXyicC1yUxcg) - 张俊林：GPT-4 模型会开创哪些新的研究方向？
 
 ### Prompts
 
@@ -117,6 +119,7 @@
 - [PowerGPT](https://github.com/ouromoros/PowerGPT) - Do anything in Windows PowerShell using natural language.
 - [Chaty – ChatGPT ALl In One](https://github.com/cosin2077/chaty) - One line code, satisfied all your ChatGPT imagination.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) - A cross-platform desktop application for OpenAI API, also a prompt debugging and management tool.
+- [LLaMA](https://til.simonwillison.net/llms/llama-7b-m2) - 如何在个人电脑运行 LLaMA
 
 ### Chrome Extensions
 
