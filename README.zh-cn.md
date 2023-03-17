@@ -75,6 +75,7 @@
 - [Prompt Marketplace](https://promptbase.com/) - PromptBase 是一个购买和销售优质 Prompts 的市场。
 - [Prompt 编写模式：如何将思维框架赋予机器（中文）](https://github.com/prompt-engineering/prompt-patterns#prompt-%E7%BC%96%E5%86%99%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E8%B5%8B%E4%BA%88%E6%9C%BA%E5%99%A8) - 一系列 Prompt 编写模式。
 - [ChatGPT 500 prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - 500 条对作家有帮助的 Prompts。
+- [PromptPerfect](https://promptperfect.jinaai.cn/#how-does-it-work) - 欢迎使用 PromptPerfect，它是专为大型语言模型 (LLM)、大型模型 (LM) 和 LMOps 设计的尖端提示词优化器。
 
 ## 官方资源
 
@@ -111,6 +112,11 @@
 - [arc53/DocsGPT](https://github.com/arc53/docsgpt) -打造你的专属知识库。
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与 GPT-3.5 的通用本地知识库方案。
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - 使用 OpenAI API 翻译 EPUB 电子书。
+- [智能文案小助手](https://github.com/CatsAndMice/lanlan) - 个人助理
+- [Writely](https://github.com/anc95/writely) - 将 Notion AI 的能力带到任何地方。
+- [PowerGPT](https://github.com/ouromoros/PowerGPT) - 在 Windows PowerShell 使用自然语言交互.
+- [Chaty – ChatGPT ALl In One](https://github.com/cosin2077/chaty) - Chaty – 一站式chatGPT百宝箱。
+- [Chatbox](https://github.com/Bin-Huang/chatbox) - 开源的 OpenAI API 跨平台桌面客户端，Prompt 的调试与管理工具，也可以用作 ChatGPT Plus 平替。
 
 ### 浏览器插件
 
