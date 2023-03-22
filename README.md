@@ -37,7 +37,6 @@
     - [Research report](#research-report)
 - [Literature Analysis](#literature-analysis)
     - [Glossary of Terms](#glossary-of-terms)
-    - [The technical principle of ChatGPT4](#the-technical-principle-of-chatgpt4)
     - [The technical principle of ChatGPT](#the-technical-principle-of-chatgpt)
     - [Recent advances in Prompt engineering](#recent-advances-in-prompt-engineering)
     - [Recent advances in LLMs](#recent-advances-in-llms)
@@ -66,6 +65,7 @@
 - [OpenAI Research index](https://openai.com/research) - This page is a list of OpenAI’s research papers on various topics in artificial intelligence.
 - [ChatGPT反思大语言模型](https://mp.weixin.qq.com/s/qqU0YliWFHC2WZd7cCdhRg) - 张俊林：由ChatGPT反思大语言模型（LLM）的技术精要。
 - [GPT-4开创的研究方向](https://mp.weixin.qq.com/s/e5oSuAVumzPXyicC1yUxcg) - 张俊林：GPT-4 模型会开创哪些新的研究方向？
+- [HellaSwag (rowanzellers.com)](https://rowanzellers.com/hellaswag/)   [Can a Machine Really Finish Your Sentence?](https://github.com/rowanz/hellaswag)   Does AI have human common sense?The dataset download address and the scores of each large model.
 
 ### Prompts
 
@@ -120,6 +120,8 @@
 - [Chaty – ChatGPT ALl In One](https://github.com/cosin2077/chaty) - One line code, satisfied all your ChatGPT imagination.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) - A cross-platform desktop application for OpenAI API, also a prompt debugging and management tool.
 - [LLaMA](https://til.simonwillison.net/llms/llama-7b-m2) - 如何在个人电脑运行 LLaMA
+- https://github.com/kaixindelele/ChatPaper ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute. 
+- https://github.com/yetone/bob-plugin-openai-translator Bob’s translation plugin, calling api.
 
 ### Chrome Extensions
 
@@ -129,6 +131,7 @@
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - You can have search engine pages directly display ChatGPT's answers.
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) is a tool with multiple Prompt Templates and customizable Prompt Templates. It is a tool that ranks second when searching for ChatGPT directly in Google Chrome.
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - Translation add-on using the OpenAI API.
+- https://www.fluentify.io/ Fluentify is a free and open-source “Copilot for the web”.Unlike ChatGPT, there’s no need to chat or switch pages, and you don’t have to copy and paste. Just select the text and everything else is done automatically.
 
 ### App
 
@@ -144,6 +147,7 @@
 - [Perplexity AI](https://www.perplexity.ai/) - Perplexity.AI combines large-scale language models and search engines to provide answers to users' needs through continuous dialogue. Compared to ChatGPT, Perplexity AI can provide the sources of information , but its answer fluency and completeness are slightly inferior to ChatGPT.
 - [Chat Simplifier](https://chat-simplifier.imzbb.cc/zh) - Chat simplifier, extracts key points from conversations.
 - [PandaGPT](https://www.pandagpt.io/) - Assist in reading PDFs and automatically answering questions.
+- [ChatMind](https://www.chatmind.tech/)  Input question article/data, one-click generate mind map, support context rewriting and expansion dialogue.
 
 ## Courses
 
@@ -165,6 +169,7 @@
 ### Chinese-Videos
 
 - [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT introduction, biased bottom technology, biased bottom layer principle.
+- [【渐构】万字科普ChatGPT-4为什么会颠覆人类社会](https://www.bilibili.com/video/BV1MY4y1R7EN/?spm_id_from=333.880.my_history.page.click&vd_source=6faef52e732ccc3a4a525fe406ce9808):In the first 25 minutes of the video, it explained the principle of GPT in a simple and easy-to-understand way.
 
 ### English-Graphic-and-Textual
 
@@ -181,6 +186,7 @@
 - [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
 - [ChatGPT 商务速成 - 中译版](https://www.notion.so/8ce48bcb5aa94828a64c86a2dbfc307d)
 - [如何使用 Python 快速集成 ChatGPT API](https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
+- [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ)
 
 ## Venture Capitalists
 
@@ -210,6 +216,7 @@
 ### Companies supported by OpenAI
 
 - [Virtuzone](https://launchpad.vz.ae/) - The UAE's leading Company Formation Specialists and award-winning corporate services provider,launching SWYFT Plan  which is an automated business plan builder powered by OpenAI's ChatGPT to allow users to generate a complete business plan in less than 10 minutes.
+- https://openai.com/product/gpt-4 We’ve collaborated with organizations building innovative products with GPT-4.
 
 ### OpenAI Products
 
@@ -269,11 +276,6 @@
 - Reinforcement learning
 - Reinforcement Learning from Human Feedback (RLHF)
 
-### The technical principle of ChatGPT4
-- gpt-4-system-card
-- gpt-4-system-card（Chinese Version）
- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
-
 ### The technical principle of ChatGPT
 
 - 2014 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - This paper introduces an attention mechanism in RNNs to improve the long sequence modelling of RNNs. This paper introduces an attention mechanism to RNNs to improve their long sequence modelling capabilities. This enables RNNs to translate longer sentences more accurately.
@@ -283,6 +285,8 @@
 - 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised- Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - This paper introduces GPT-2.
 - 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - This paper introduces GPT-3.
 - 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - This paper presents an RLHF approach to using supervised learning to fine-tuning. It is also known as a paper that illustrates the kernel of ChatGPT's thinking. Presumably, ChatGPT is an extended version of InstructGPT that enables fine-tuning on larger datasets.
+- 2023 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.
+- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
 
 ### Recent advances in Prompt engineering
 
@@ -297,6 +301,10 @@
 
 - 2023 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
 
+### Social impact 
+
+- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)  Our findings indicate that approximately 80% of the U.S. workforce could have at least 10% of their work tasks affected by the introduction of GPTs, while around 19% of workers may see at least 50% of their tasks impacted. The influence spans all wage levels, with higher-income jobs potentially facing greater exposure. 
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first and submit a Pull Request after Fork this repository.
@@ -310,6 +318,7 @@ Thank you to all contributors (in no particular order and in alphabetical order)
 - [林向东](https://github.com/eastling) - [@eastling](https://github.com/eastling)
 - [边心竹](https://reading.zhubai.love/) - [@bxz400](https://github.com/bxz400)
 - [郑嘻嘻](https://github.com/zhengxixuan) - [@zhengxixuan](https://github.com/zhengxixuan)
+- [黄啸锐](https://github.com/Lilhxr) - [@Lilhxr](https://github.com/Lilhxr)
 
 ## Contact
 
