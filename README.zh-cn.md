@@ -123,6 +123,7 @@
 - [LLaMA](https://til.simonwillison.net/llms/llama-7b-m2) - 如何在个人电脑运行 LLaMA。
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper) - ChatPaper是一款论文总结工具。AI用一分钟总结论文，用户用一分钟阅读AI总结的论文。
 - [Bob](https://github.com/yetone/bob-plugin-openai-translator) - bob的翻译插件
+- [MoeChat](https://github.com/Fzoss/MoeChat) - 一个友好的聊天页面
 
 ### 浏览器插件
 
