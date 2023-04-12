@@ -50,6 +50,7 @@
 ## 元资源
 
 - [Wikipedia ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
+- [42share](https://42share.io/)
 
 ### 通用
 
@@ -85,6 +86,7 @@
 ### 版本
 
 - [ChatGPT](https://openai.com/blog/chatgpt) - 网页版。这是一个由 OpenAI 开发的人工智能聊天机器人，它允许你与 ChatGPT 进行 AI 对话。
+- [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)：ChatGPT plugins 能帮助ChatGPT访问最新的信息，进行计算或使用第三方服务。
 - [OpenAI API](https://openai.com/blog/openai-api) - API 版。一个允许任何人访问 OpenAI 开发的新 AI 模型的平台。
 - [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) 是一个在 ChatGPT 基础上增加了视觉功能的版本。Visual ChatGPT 是一个由微软开发的项目，它可以在聊天中发送和接收图片。它是基于 ChatGPT 和一系列视觉基础模型的组合。
 
@@ -95,7 +97,7 @@
 - [OpenAI API Documentation](https://platform.openai.com/docs) - OpenAI API 的文档，是学习和使用 OpenAI API 的重要资源。
 - [ChatGPT blog](https://openai.com/blog/chatgpt/) - 这是 OpenAI 官方博客上的一篇介绍 ChatGPT 的文章。
 - [New Bing](https://www.bing.com/new): New Bing 是微软开发的新一代搜索引擎，基于 OpenAI 的大型语言模型，能够提供智能聊天、创意和助手功能。
-- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：微软发布的融合了大型语言模型（包括GPT-4）的Office全家桶
+- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：微软发布，融合了大型语言模型（包括GPT-4）的Office全家桶。
 
 ### 社交媒体
 
@@ -127,6 +129,7 @@
 
 ### 浏览器插件
 
+- [42share](https://42share.io/) 国人开发，分享 ChatGPT 问答过程给其余人。
 - [sharegpt-google](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - 分享 ChatGPT 问答过程给其余人，可生成链接、图片、pdf 等多种格式。
 - [chatgpt-writer-google](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - 使用 ChatGPT AI 生成完整的电子邮件和消息。
 - [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - 发现、分享、导入和使用最适合 ChatGPT 的提示词。
@@ -138,10 +141,10 @@
 ### App
 
 - [Raycast AI](https://www.raycast.com/ai) - 结合使用。
-- [KnowBuddy](https://www.knowbuddy.ai/) - 使用越来越多的强大 AI 模型和服务来帮助您执行任务和回答问题。
 
 ### Web App
 
+- [Poe](https://quorablog.quora.com/Poe-1) - Quora 推出的一个类似 ChatGPT 的对话机器人，整合各家 AI 模型推出的一款产品。
 - [OpenGPT - Create ChatGPT Application in seconds](https://open-gpt.app/) - 立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用。
 - [Mindshow.fun](https://www.mindshow.fun/#/templates) - 结合 ChatGPT 精简文字内容，利用 md 直接生成 ppt，还可以直接导入 logseq 文件。
 - [Chatpdf](https://www.chatpdf.com/) - 情报革命在这里，ChatGPT 只是一个开始！
@@ -238,7 +241,6 @@
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 一个类 ChatGPT 开源工具包，基于 EleutherAI 的 GPT-NeoX-20B，内含一个 20B 参数量的大模型，而且该模型在 4300 万条指令上进行了微调。
 - [Jasper Chat](https://www.jasper.ai/chat) - Jasper AI 生态中的一项功能，与 ChatGPT 不同的是，它是付费服务。
 - [Character ai](https://beta.character.ai/) - 和 ChatGPT 不一样的是，它对聊天的对象（也就是机器人）有很多细分领域。所有人都来参与创建，而不是完全自行创建并训练模型！
-- [Poe](https://quorablog.quora.com/Poe-1) - Quora 推出的一个类似 ChatGPT 的对话机器人，整合各家 AI 模型推出的一款产品。
 - [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - 谷歌推出的对话机器人。Bard 构建于 LaMDA 模型的基础上，相较于 ChatGPT，Bard 可以检索网页，从而能够回答有关最近发生事件的问题。
 - [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - 由 You.com 推出的聊天机器人，是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
 - [Perplexity AI](https://www.perplexity.ai/) - 核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。

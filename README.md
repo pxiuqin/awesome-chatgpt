@@ -49,6 +49,7 @@
 ## Meta Resources
 
 - [Wikipedia ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
+- [42share](https://42share.io/)
 
 ### General
 
@@ -57,6 +58,7 @@
 - [Aihub](https://www.aihub.cn) - Discover and explore high-quality and user-friendly AI products worldwide.
 - [Hera Chat](https://herachat.com/ai123) The forefront of news aggregation about ChatGPT, AI Chat Bot, AIGC.
 - [Find AI Tools Using AI ](https://theresanaiforthat.com/?message=subscribed) AI tools.Updated daily.
+- [Finetune chatGPT](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) on custom dataset (`sql`, `csv`, `excel` etc)
 
 ### The Principles of ChatGPT
 
@@ -84,6 +86,7 @@
 ### Version
 
 - [ChatGPT](https://openai.com/blog/chatgpt) - Website.This is an official online chat tool provided by OpenAI, which allows you to have AI conversations with ChatGPT.
+- [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)：ChatGPT plugins allow ChatGPT to access up-to-date information, run computations, or use third-party services.
 - [OpenAI API](https://openai.com/blog/openai-api) - OpenAI API, a platform that allows anyone to access new AI models developed by OpenAI.
 - [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) - It is a version that adds visual features on top of ChatGPT.Visual ChatGPT is a project developed by Microsoft that enables the exchange of images during conversations. It is a combination of ChatGPT and a series of visual models.
 
@@ -122,9 +125,13 @@
 - [LLaMA](https://til.simonwillison.net/llms/llama-7b-m2) - 如何在个人电脑运行 LLaMA
 - https://github.com/kaixindelele/ChatPaper ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute. 
 - https://github.com/yetone/bob-plugin-openai-translator Bob’s translation plugin, calling api.
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper) - ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute. 
+- [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - Bob’s translation plugin, calling api.
+- - [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc.
 
 ### Chrome Extensions
 
+- [42share](https://42share.io/) Developed by Chinese.Sharing the ChatGPT chat history with others.
 - [sharegpt-google](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - Sharing the ChatGPT chat history with others can generate various formats such as links, images, and PDFs.
 - [chatgpt-writer-google](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - Use ChatGPT to generate complete emails and messagese. It is supported on all websites and has better support for Gmail.
 - [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use prompts that are most suitable for ChatGPT.
@@ -136,10 +143,10 @@
 ### App
 
 - [Raycast AI](https://www.raycast.com/ai) - A tool that lets you control your computer with natural language commands.
-- [KnowBuddy](https://www.knowbuddy.ai/) - It uses a growing list of powerful AI models and services to help you perform tasks and answer questions.
 
 ### Web App
 
+- [Poe](https://quorablog.quora.com/Poe-1) - Quora has launched an AI chatbot tool similar to ChatGPT. The product currently includes four different bots, namely Sage, Claude, ChatGPT, and Dragonfly, which are somewhat similar to the offerings of Character AI. These bots draw their AI capabilities from various sources, including OpenAI, Anthropic's Claude, and other AI models, making it a product that integrates multiple AI models.
 - [OpenGPT - Create ChatGPT Application in seconds](https://open-gpt.app/) - Access to a wide range of ChatGPT applications, or create your own App in seconds.
 - [Mindshow.fun](https://www.mindshow.fun/#/templates) - Combining with ChatGPT, you can generate a PPT in one minutes. Support importing from Markdown and Logseq.
 - [Chatpdf](https://www.chatpdf.com/) - The intelligence revolution is here, ChatGPT was just the beginning!
@@ -238,7 +245,6 @@
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - A toolkit similar to ChatGPT, based on EleutherAI's GPT-NeoX-20B, containing a large model with 20 billion parameters that has been fine-tuned on 43 million prompts.
 - [Jasper Chat](https://www.jasper.ai/chat) - A feature in the Jasper AI ecosystem, unlike ChatGPT, it is a paid service.
 - [Character ai](https://beta.character.ai/) - Unlike ChatGPT, it categorizes the chatbots into various subfields. It allows people to participate in the creation process through a platform instead of solely relying on self-creation and model training.
-- [Poe](https://quorablog.quora.com/Poe-1) - Quora has launched an AI chatbot tool similar to ChatGPT. The product currently includes four different bots, namely Sage, Claude, ChatGPT, and Dragonfly, which are somewhat similar to the offerings of Character AI. These bots draw their AI capabilities from various sources, including OpenAI, Anthropic's Claude, and other AI models, making it a product that integrates multiple AI models.
 - [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - Bard is Google’s new AI chatbot service that uses LaMDA, a language model that can generate natural and informative responses. Bard can help users with creative tasks, explaining complex topics, and learning new things. Bard is Google’s answer to ChatGPT, Microsoft’s popular AI chatbot3.
 - [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - YouChat is a chatbot from You.com, founded by language and artificial intelligence expert Richard Socher, a GPT-3-based text generator for writing emails and other documents. In contrast to ChatGPT, YouChat's replies are cited, which in turn helps users track the source of each message.
 - [Perplexity AI](https://www.perplexity.ai/) - AI, which at its core combines a large-scale language model with a search engine to perform Q&A, providing users with the answers they need in the form of a continuous dialogue. Compared to ChatGPT, Perplexity AI is able to provide sources of information , but the fluency and completeness of its answers is slightly less than ChatGPT.
@@ -282,7 +288,7 @@
 - 2017 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - This paper introduces the structure of the original Transformer and is the basis for the Transformer family.
 - 2018 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) - This paper ushered in the era of pre-training in NLP. BERT came out of nowhere.
 - 2018 [Improving language understanding by generative pre-training](https://openai.com/research/language-unsupervised) - This paper introduces another popular pre-training model, also known to later generations as GPT-1.
-- 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised- Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - This paper introduces GPT-2.
+- 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - This paper introduces GPT-2.
 - 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - This paper introduces GPT-3.
 - 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - This paper presents an RLHF approach to using supervised learning to fine-tuning. It is also known as a paper that illustrates the kernel of ChatGPT's thinking. Presumably, ChatGPT is an extended version of InstructGPT that enables fine-tuning on larger datasets.
 - 2023 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.
@@ -319,6 +325,7 @@ Thank you to all contributors (in no particular order and in alphabetical order)
 - [边心竹](https://reading.zhubai.love/) - [@bxz400](https://github.com/bxz400)
 - [郑嘻嘻](https://github.com/zhengxixuan) - [@zhengxixuan](https://github.com/zhengxixuan)
 - [黄啸锐](https://github.com/Lilhxr) - [@Lilhxr](https://github.com/Lilhxr)
+
 
 ## Contact
 
