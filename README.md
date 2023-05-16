@@ -27,6 +27,7 @@
     - [Chinese-Videos](#chinese-videos)
     - [English-Graphic-and-Textual](#english-graphic-and-textual)
     - [Chinese-Graphic-and-Textual](#chinese-graphic-and-textual)
+- [Vector Databases](#vector-databases)
 - [Venture Capitalists](#venture-capitalists)
     - [OpenAI Investors](#openai-investors)
     - [OpenAI Investments](#openai-investments)
@@ -97,7 +98,7 @@
 - [OpenAI API Documentation](https://platform.openai.com/docs) - It's a documentation of the OpenAI API. This page is an important resource for learning and using the OpenAI API.
 - [ChatGPT blog](https://openai.com/blog/chatgpt/) - This is an article on the OpenAI official blog introducing ChatGPT.
 - [New Bing](https://www.bing.com/new) - The New Bing is a new generation of search engine developed by Microsoft and based on a large language model from OpenAI, capable of providing intelligent chat, creative and assistant features.
-- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：It combines the large language models,Including GPT-4, with your data in the Microsoft Graph and the Microsoft 365 apps 
+- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：It combines the large language models,Including GPT-4, with your data in the Microsoft Graph and the Microsoft 365 apps
 
 ### Social Media
 
@@ -126,8 +127,11 @@
 - https://github.com/kaixindelele/ChatPaper ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute. 
 - https://github.com/yetone/bob-plugin-openai-translator Bob’s translation plugin, calling api.
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper) - ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute. 
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper) - ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute.
 - [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - Bob’s translation plugin, calling api.
-- - [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc.
+- [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc.
+- [Autosubtitle](https://github.com/rongjc/autosubtitle) - Use GPT to auto generate and translate subtitles
+- [AnotiaWang/open-assistant-helper](https://github.com/AnotiaWang/open-assistant-helper) - Solve Open Assistant tasks with ChatGPT
 
 ### Chrome Extensions
 
@@ -143,6 +147,7 @@
 ### App
 
 - [Raycast AI](https://www.raycast.com/ai) - A tool that lets you control your computer with natural language commands.
+- [MindMac](https://mindmac.app) - Effortlessly manage your chats and folders while monitoring costs with intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
 
 ### Web App
 
@@ -155,6 +160,8 @@
 - [Chat Simplifier](https://chat-simplifier.imzbb.cc/zh) - Chat simplifier, extracts key points from conversations.
 - [PandaGPT](https://www.pandagpt.io/) - Assist in reading PDFs and automatically answering questions.
 - [ChatMind](https://www.chatmind.tech/)  Input question article/data, one-click generate mind map, support context rewriting and expansion dialogue.
+- [ClipRecaps](https://cliprecaps.com/) ClipRecaps: chatGPT meets Youtube. The Ultimate Tool for Summarizing Long-Form Videos
+- [Poet.ly](https://poet.ly) - Poet.ly is a simple and fast generator of SEO-friendly articles for your blog referenced on search engines. It is based on the OpenAI GPT-4 API.
 
 ## Courses
 
@@ -195,6 +202,10 @@
 - [如何使用 Python 快速集成 ChatGPT API](https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
 - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ)
 
+## Vector Database
+
+- [Weaviate](https://github.com/weaviate/weaviate)
+
 ## Venture Capitalists
 
 ### OpenAI Investors
@@ -215,9 +226,9 @@
 - [edgedb](https://www.edgedb.com/) - EdgeDB is an open-source database designed as a spiritual successor to SQL and the relational paradigm. It aims to solve some hard design problems that make existing databases unnecessarily onerous to use.
 - [Descript](https://www.descript.com/) - Descript is a collaborative audio and video editor that transcribes audio to a text document for editing.
 - [Ambience Healthcare](https://www.ambiencehealthcare.com/) -  Ambience AutoScribe, is a fully automated AI medical scribe that captures the nuances of provider-patient conversation in real-time into a comprehensive note and seamlessly fits into EMR workflows.
-- [Harvey](https://www.harvey.ai/) - Harvey is developing an intuitive interface for all legal workflows through powerful generative language models. 
+- [Harvey](https://www.harvey.ai/) - Harvey is developing an intuitive interface for all legal workflows through powerful generative language models.
 - [Mem](https://get.mem.ai/) - Mem is building the world’s first self-organizing workspace.
-- [Speak](https://www.speak.com/) - Speak is on a mission to help more people become fluent in new languages, starting with English. 
+- [Speak](https://www.speak.com/) - Speak is on a mission to help more people become fluent in new languages, starting with English.
 
 
 ### Companies supported by OpenAI
@@ -267,6 +278,7 @@
 - [230311 哈尔滨工业大学 ChatGPT 调研报告](https://www.baogaoting.com/info/248610)
 - [230221 ChatGPT 团队背景研究报告](https://chatgpt.greedyai.com/forgeneral/什么是ChatGPT/ChatGPT团队背景研究报告/)
 - [ChatGPT 报告 70 份论文](https://www.aliyundrive.com/s/V94kCe9qQnC)
+- [ChatGPT作为回答复杂问题的问答系统的评价](https://arxiv.org/abs/2303.07992) [(Code)](https://github.com/liyu19980601/Complex-Question-Answering-Evaluation-of-ChatGPT)
 
 ## Literature Analysis
 
@@ -307,9 +319,9 @@
 
 - 2023 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
 
-### Social impact 
+### Social impact
 
-- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)  Our findings indicate that approximately 80% of the U.S. workforce could have at least 10% of their work tasks affected by the introduction of GPTs, while around 19% of workers may see at least 50% of their tasks impacted. The influence spans all wage levels, with higher-income jobs potentially facing greater exposure. 
+- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)  Our findings indicate that approximately 80% of the U.S. workforce could have at least 10% of their work tasks affected by the introduction of GPTs, while around 19% of workers may see at least 50% of their tasks impacted. The influence spans all wage levels, with higher-income jobs potentially facing greater exposure.
 
 ## Contribute
 
